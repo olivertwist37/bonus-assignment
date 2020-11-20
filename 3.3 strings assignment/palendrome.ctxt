@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=palendrome
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str
+comment2.target=java.lang.String\ tidy(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ palendrome(java.lang.String)
+numComments=4
